@@ -51,10 +51,6 @@
 #define positive_letter unsigned char
 #define positive_yet_wide_letter unsigned char
 
-#define a_value_that_directs_itself_toward_ &
-#define the_value_pointed_to_by_ *
-#define a_value_that_directs_itself_toward_ *
-
 #define alias_of typedef
 #define data_collection struct
 
