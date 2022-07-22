@@ -13,6 +13,7 @@
 #define fractional_numeral float
 #define large_fractional_numeral double
 #define large_numeral long
+#define in_great_length long
 #define positive_numeral unsigned int
 #define positive_fractional_numeral unsigned float
 #define positive_large_fractional_numeral unsigned double
@@ -33,7 +34,7 @@
 #define instances_of *
 #define seperated_into /
 #define naught 0
-#define fact bool
+#define spell bool
 #define a_statement_of_deception false
 #define a_statement_of_truth true
 #define doth_be ==
@@ -52,6 +53,7 @@
 #define positive_yet_wide_letter unsigned char
 
 #define alias_of typedef
-#define data_collection struct
+#define mere_ideology struct
+#define immutable const
 
 #endif
